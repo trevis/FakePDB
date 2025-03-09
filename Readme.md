@@ -4,7 +4,7 @@ Tool for PDB generation from IDA Pro database
 
 Supports:
 * IDA >= 7.4 
-
+ 
 ## Download
 
 * [Windows AMD64](https://nightly.link/Mixaill/FakePDB/workflows/CI/master/binaries.zip)
